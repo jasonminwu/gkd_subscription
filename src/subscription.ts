@@ -20,7 +20,7 @@ export default defineGkdSubscription({
   name: 'jason的订阅',
   version: 0,
   author: 'jason',
-  checkUpdateUrl: './gkd.version.json5',
+  checkUpdateUrl: './jason_gkd.json5',
   supportUri: 'https://github.com/jasonminwu/gkd_subscription',
   categories,
   globalGroups,
